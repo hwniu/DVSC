@@ -1,5 +1,28 @@
-# DVSC
-The initial project of "A deep learning enabled video semantic transmission against multi-dimensional noise";
+# Video_Semantic_Communication_System
 
+### result
 
-The system source code will be open source after the paper is accepted.
+- PSNR
+
+![](./Figure/PSNR.png)
+
+- LPIPS
+  
+  ![](./Figure/LPIPS.png)
+
+- MS-SSIM
+  
+  ![](./Figure/MS-SSIM.png)
+
+- metrics as the Std increasing
+  
+  ![](./Figure/semanticnoise.png)
+
+## Key Dependency
+
+- pytorch==1.10
+- pytorch-msssim==0.2.1
+- scikit-image==0.16.2
+- lpips==0.1.4
+
+ 
