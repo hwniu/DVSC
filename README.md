@@ -1,4 +1,4 @@
-##The initial project of "A deep learning enabled video semantic transmission against multi-dimensional noise";
+## The initial project of "A deep learning enabled video semantic transmission against multi-dimensional noise";
 
 ### result
 
