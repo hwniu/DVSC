@@ -1,4 +1,4 @@
-# Video_Semantic_Communication_System
+##The initial project of "A deep learning enabled video semantic transmission against multi-dimensional noise";
 
 ### result
 
